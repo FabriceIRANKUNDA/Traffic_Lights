@@ -1,6 +1,6 @@
 /*
  * File:   source.c
- * Author: Irankunda Fabrice and Tuyisingize Benjamin
+ * Author: Irankunda Fabrice and Niyomukiza Egide
  *
  * Created on July 11, 2021, 6:57 PM
  */
